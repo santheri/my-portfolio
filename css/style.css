@@ -1,5 +1,5 @@
 @import url('http://fonts.cdnfonts.com/css/lets-coffee');
-@import url('http://fonts.cdnfonts.com/css/open-sans');
+/* @import url('http://fonts.cdnfonts.com/css/open-sans'); */
 :root{
     --yellow:#f9ca24;
 }
@@ -226,7 +226,7 @@ header .navbar ul li a:hover{
     font-weight: normal;
     line-height: 1.8;
     letter-spacing: 1px;
-    font-family: 'Montserrat', sans-serif;
+    /* font-family: 'Montserrat', sans-serif; */
     margin-bottom: 5vw;
 }
 
